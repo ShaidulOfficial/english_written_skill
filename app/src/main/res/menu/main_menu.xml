@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homemenu"
+        android:icon="@drawable/home_24"
+        android:title="Home"/>
+    <item
+        android:id="@+id/favmenu"
+        android:icon="@drawable/home_24"
+        android:title="@string/favourites"/>
+    <item
+        android:id="@+id/dev_about"
+        android:icon="@drawable/person_24"
+        android:title="About Developer"/>
+
+ <item android:title="Topic Lists">
+     <menu >
+         <group android:checkableBehavior="single">
+
+             <item
+                 android:icon="@drawable/book_24"
+                 android:title="@string/paragraph"/>
+             <item
+                 android:icon="@drawable/book_24"
+                 android:title="@string/completing_story"/>
+
+         </group>
+     </menu>
+ </item>
+
+    <item android:title="Types of Paragraph">
+        <menu >
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/text_para_menu"
+                    android:icon="@drawable/book_24"
+                    android:title="@string/textual"/>
+                <item
+                    android:id="@+id/inst_para_menu"
+                    android:icon="@drawable/book_24"
+                    android:title="@string/instructional"/>
+
+
+
+            </group>
+        </menu>
+    </item>
+</menu>

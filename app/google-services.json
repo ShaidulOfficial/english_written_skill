@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083805104002",
+    "project_id": "english2nd-68cf4",
+    "storage_bucket": "english2nd-68cf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083805104002:android:f04bc65d657ba5bee8c19b",
+        "android_client_info": {
+          "package_name": "com.shaidulsoftstudio.englishwritten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083805104002-832o17dhgga0hh043097vompl48kmvqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgzwzZCE77GJpNiAzoICnPQIYWuoYAmsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083805104002-832o17dhgga0hh043097vompl48kmvqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
