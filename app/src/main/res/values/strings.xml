@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Written Skill</string>
+    <string name="login">Login</string>
+    <string name="fire">Fire Service</string>
+    <string name="math">Math</string>
+
+    <string name="nav_draw_open">Navigation Drawer Open</string>
+    <string name="nav_draw_close">Navigation Drawer Close</string>
+    <string name="school">School</string>
+    <string name="audio">Audio</string>
+    <string name="video">Video</string>
+    <string name="english">English</string>
+    <string name="bangla">Bangla</string>
+    <string name="Social">Social Science</string>
+    <string name="science">Science</string>
+    <string name="islam">Islam</string>
+    <string name="ict">ICT</string>
+    <string name="thank">Thank You All</string>
+    <string name="dev_name">Meherun  Nesa Chumky</string>
+
+    <string name="paragraph">Paragraph</string>
+    <string name="myself">Myself</string>
+
+    <string name="search_here">Search here...</string>
+    <string name="update">Updating...</string>
+    <string name="copy_successfully">Copy Successfully</string>
+    <string name="details">Class VI to XII English written part get here..</string>
+    <string name="details1">✅Paragraph \n✅Completing Story \n✅Application \n✅Email</string>
+    <string name="md_shaidul_islam">Md Shaidul Islam</string>
+    <string name="developer_md_shaidul_islam">Developer - Md Shaidul Islam</string>
+    <string name="rate_us">Please rate us on play store. It help us doing even better.</string>
+    <string name="purches_txt">Contact to purchase apps and \nVisit site https://usitfo.com/ </string>
+    <string name="britannia_university_cumilla">Britannia University, Cumilla</string>
+    <string name="inparaparagraph">Instructional Paragraph</string>
+    <string name="instructional">Instructional</string>
+    <string name="textual">Textual</string>
+    <string name="completing_story">Completing Story</string>
+    <string name="buy_app">Buy App</string>
+    <string name="favourites">Favourites</string>
+    <string name="date"><![CDATA[date & time]]></string>
+
+
+</resources>
